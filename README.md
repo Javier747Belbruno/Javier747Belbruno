@@ -1,4 +1,4 @@
-### 🚀 Building the future at Helianova
+### 🎯 Building the future at Helianova
 I am a Software Engineer and the Founder of Helianova, a software factory dedicated to building and deploying high-performance, multi-purpose solutions for businesses.
 
 🚀 Founder @ Helianova: Architecting end-to-end digital products.
